@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Rubik+Burned&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Rubik+Marker+Hatch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Yeseva+One&display=swap');
+#img_div{
+    width:90%;
+    display:flex;
+    justify-content: space-between;
+    margin:auto;
+  }
+  .img_class{
+      width:10vw;
+    animation: fadeIn 5s;
+  }
+  .img_class:hover{
+    opacity:0.5
+  }
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  #main_div{
+    width:100%;
+    min-height:100vw;
+  }
+#box_id{
+    background-color: #3F4446;
+   
+} 
+/* #navbar_div{
+    position:sticky;
+    z-index:1;
+    top:0;
+} */
+#logo_img_id{
+    width:8vw;
+} 
+#tag_line{
+    font-family: 'Rubik Burned', cursive;
+    font-size:2.7vw;
+    color:orange;
+}
+#slider_offer{
+    display:flex;
+    width:100%;
+}
+.offer_image1{
+    width:39vw;
+}
+.offer_image2{
+    margin-top: 1vw;
+    width:39vw;
+}
+.offer_image_div_id1{
+    width:40vw;
+    height:25vw;
+    margin-top:3vw;
+    position:relative;
+}
+.offer_image_div_id2{
+    width:40vw;
+    height:25vw;
+    margin-top:0.6vw;
+    position:relative;
+}
+#offer_p_id1{
+    position:absolute;
+    top:3vw;
+    left:1vw;
+    font-size:2vw;
+    width:20vw;
+    font-family: 'Rubik Marker Hatch', cursive;
+    color:orangered;
+}
+#offer_p_id2{
+    position:absolute;
+    top:1vw;
+    left:10vw;
+    font-size:2.2vw;
+    width:20vw;
+    font-family: 'Rubik Marker Hatch', cursive;
+    color:rgb(44, 42, 42);
+
+}
+#most_purchased_div_id{
+    width:97.1vw;
+    min-height:20vw;
+    margin:auto;
+    margin-left:0.9vw;
+    margin-top:2vw;
+}
+#most_purchased_div_id1{
+    width:95vw;
+    margin:auto;
+    font-size:2vw;
+    padding:1vw;
+    font-weight:500;
+    color:#0070C2;
+    background-color: #B0A6A7;
+    font-family: 'Yeseva One', cursive;
+  
+}
+#most_purchased_div_id2{
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    margin-top:2vw;
+    margin-bottom:2vw;
+}
+.most_purchased_div_id21{
+    width:20%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+   
+}
+
+.trending_image_id{
+    width:100%;
+}
+.telescope_class{
+    font-size:2vw;
+    font-weight:600;
+    padding:1vw;
+    color:lightslategray;
+}
+#navbar2_div_id{
+    width:95vw;
+    margin:auto;
+    font-size:2vw;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding:1vw;
+    font-weight:500;
+    color:#0070C2;
+    background-color: #B0A6A7;
+    font-family: 'Yeseva One', cursive;
+    position:sticky;
+    z-index:1;
+    top:0;
+    border-radius:5px;
+}
+#select1_id{
+    width:50%;
+    padding:1vw;
+    font-size:1.5vw;
+    border-radius:10px;
+    background-color: rgb(145, 66, 66);
+}
+#select2_id{
+    width:50%;
+    padding:1vw;
+    font-size:1.5vw;
+    border-radius:10px;
+    background-color: rgb(145, 66, 66);
+}
+#navbar2_div_p_id1{
+    font-size:2vw;
+    color:rgb(145, 28, 28);
+}
+
+#navbar2_div_p_id2{
+    font-size:2vw;
+    color:rgb(145, 28, 28);
+
+}
+#main_div_displayproducts{
+    width:95vw;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-top: 3vw;
+
+}
+#div_id_product{
+   width:20vw;
+   border-radius:10px;
+   background-color: #C6C8D4;
+   padding:1vw;
+   min-height:33vw;
+}
+
+.img_class_product{
+    width:100%;
+}
+.title_class_product{
+    width:100%;
+    
+}
+.button_class_product{
+    width:100%;
+    display:none;
+    animation: fadeIn 1s;
+}
+#div_id_product:hover  .button_class_product{
+    display:block;
+
+    
+ }
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+
+  #search-box{
+    width:30%;
+    min-height:3.5vw;
+    display:flex;
+    border-radius:10px;
+    align-items:center;
+    border:2px solid #41210A;
+    margin-left:10vw;
+    background-color: white;
+    
+}
+.searchText{
+    width:89%;
+    min-height:3.5vw;
+    padding-left:1vw;
+    border-radius:10px;
+    border:none;
+    outline:none;
+    font-size:1.7vw;
+    font-weight:bold;
+    letter-spacing:2px;
+}
+#search_icon{
+    font-size:1.5vw;
+}
+#cart_id1{
+    font-size:3vw;
+}

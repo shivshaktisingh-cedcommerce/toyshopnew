@@ -1,0 +1,110 @@
+#footer_div_id{
+    width:100%;
+   
+    /* margin-top: 100vh; */
+}
+#footer_main_div_id{
+    width:100%;
+    margin-top:3vw;
+    margin:auto;
+    position:relative;
+}
+#footer_image_id{
+    width:100%;
+    max-height:18vw;
+    object-fit: cover;
+    opacity:0.9;
+}
+#p1_sweetshop{
+    position:absolute;
+    top:2vw;
+    left:5vw;
+    font-size:2vw;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive;
+
+}
+#p2_sweetshop{
+    position:absolute;
+    top:5vw;
+    left:5vw;
+    font-size:2vw;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive; 
+}
+#p3_sweetshop{
+    position:absolute;
+    top:5vw;
+    right:5vw;
+    font-size:2vw;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive; 
+}#p4_sweetshop{
+    position:absolute;
+    top:5vw;
+    right:8vw;
+    font-size:2vw;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive; 
+}#p5_sweetshop{
+    position:absolute;
+    top:5vw;
+    right:11vw;
+    font-size:2vw;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive; 
+}
+@media only screen and (max-width: 600px) {
+    #footer_main_div_id{
+        width:100%;
+        margin-top:3vw;
+        margin:auto;
+        position:relative;
+    }
+    #footer_image_id{
+        width:100%;
+        max-height:18vw;
+        object-fit: cover;
+        opacity:0.9;
+    }
+    #p1_sweetshop{
+        position:absolute;
+        top:2vw;
+        left:5vw;
+        font-size:3.5vw;
+        letter-spacing: 2px;
+        font-weight:bold;
+        font-family: 'Dancing Script', cursive;
+    
+    }
+    #p2_sweetshop{
+        position:absolute;
+        top:6vw;
+        left:5vw;
+        font-size:3.5vw;
+        font-weight:bold;
+        font-family: 'Dancing Script', cursive; 
+    }
+    #p3_sweetshop{
+        position:absolute;
+        top:5vw;
+        right:5vw;
+        font-size:3.5vw;
+        font-weight:bold;
+        font-family: 'Dancing Script', cursive; 
+    }#p4_sweetshop{
+        position:absolute;
+        top:5vw;
+        right:10vw;
+        font-size:3.5vw;
+        font-weight:bold;
+        font-family: 'Dancing Script', cursive; 
+    }#p5_sweetshop{
+        position:absolute;
+        top:5vw;
+        right:15vw;
+        font-size:3.5vw;
+        font-weight:bold;
+        font-family: 'Dancing Script', cursive; 
+    }
+}
