@@ -278,7 +278,6 @@ export default function Home() {
             <option value="">--sort here--</option>
             <option value="lth">Low to high</option>
             <option value="htl">High to low</option>
-            <option value="rating">Rating</option>
         </select>
         </p>
         <div id="search-box"><input type="text" className="searchText" placeholder="Type to search..." onChange={selectfun1} name="search" value={searchinput}/><i class="fa fa-search" aria-hidden="true" id="search_icon" ></i></div>
