@@ -2,174 +2,217 @@ export const data={
   "educational":[
         {
             "id":"educational1",
-            "image":"pullingcart1.jpg",
-            "title":"Telescope1",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"clock.jpeg",
+            "altimage":"clock1.jpg",
+            "title":"Kids clock",
+            "price":"2000",
+            "total":"2000",
+            "quantity":1,
+            "type":"educational"
         },
         {
             "id":"educational2",
-            "image":"telescope1.jpg",
-            "title":"Telescope2",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"abacus2.jpeg",
+            "altimage":"abacus1.jpg",
+            "title":"Abacus",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"educational"
         },
         {
             "id":"educational3",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"edt2.webp",
+            "altimage":"edt22.webp",
+            "title":"Educational toy",
+            "price":"1800",
+            "total":"1800",
+            "quantity":1,
+            "type":"educational"
         },
         {
             "id":"educational4",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"edt1.webp",
+            "altimage":"edt11.webp",
+            "title":"Educational toy",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"educational"
         }
       ],
       "actions":[
         {
             "id":"action1",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"spider1.jpg",
+            "altimage":"spider11.jpg",
+            "title":"Spider man",
+            "price":"1000",
+            "total":"1000",
+            "quantity":1,
+            "type":"actions"
         },
         {
-            "id":"educational2",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"action2",
+            "image":"super1.jpg",
+            "altimage":"super11.webp",
+            "title":"Super man",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"actions"
+
         },
         {
-            "id":"educational3",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"action3",
+            "image":"captian2.jpg",
+            "altimage":"captian22.jpg",
+            "title":"Captian America",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"actions"
+
         },
         {
-            "id":"educational4",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"action4",
+            "image":"batman1.webp",
+            "altimage":"batman11.webp",
+            "title":"Batman",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"actions"
+
         }
 
       ],
       "Dolls":[
         {
-            "id":"dolls1",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"doll1",
+            "image":"doll1.webp",
+            "altimage":"doll11.webp",
+            "title":"Doll",
+            "price":"1000",
+            "total":"1000",
+            "quantity":1,
+            "type":"Dolls"
         },
         {
-            "id":"educational2",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"doll2",
+            "image":"doll2.jpg",
+            "altimage":"doll22.jpg",
+            "title":"Couple baby doll",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"Dolls"
         },
         {
-            "id":"educational3",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"doll3",
+            "image":"doll3.jpeg",
+            "altimage":"doll33.jpeg",
+            "title":"Baby girl doll",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"Dolls"
         },
         {
-            "id":"educational4",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"doll4",
+            "image":"doll4.jpg",
+            "altimage":"doll44.jpeg",
+            "title":"Baby girl doll",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"Dolls"
         }
 
       ],
       "electronic":[
         {
             "id":"electronic1",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"car.jpg",
+            "altimage":"car1.webp",
+            "title":"Electronic car",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"electronic"
         },
         {
-            "id":"educational2",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"electronic2",
+            "image":"dinosaur.jpg",
+            "altimage":"dinosaur1.jpg",
+            "title":"Dinosaur",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"electronic"
         },
         {
-            "id":"educational3",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"electronic3",
+            "image":"robotics.webp",
+            "altimage":"robotics1.webp",
+            "title":"Robot",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"electronic"
         },
         {
-            "id":"educational4",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"electronic4",
+            "image":"dog.jpg",
+            "altimage":"dog1.jpg",
+            "title":"Dog",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"electronic"
         }
 
       ],
       "animals":[
         {
             "id":"animals1",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "image":"animaldog.jpg",
+            "altimage":"animaldog1.jpg",
+            "title":"Dog",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"animals"
         },
         {
-            "id":"educational2",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"animals2",
+            "image":"elephant.webp",
+            "altimage":"elephant1.webp",
+            "title":"Elephant",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"animals"
         },
         {
-            "id":"educational3",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
-            "price":"1500",
-            "total":"1500",
-            "quantity":1
+            "id":"animals3",
+            "image":"lion.jpg",
+            "altimage":"lion1.jpg",
+            "title":"Lion",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"animals"
         },
         {
-            "id":"educational4",
-            "image":"telescope1.jpg",
-            "title":"Telescope",
+            "id":"animals4",
+            "image":"tiger.jpg",
+            "altimage":"tiger3.jpeg",
+            "title":"Tiger",
             "price":"1500",
             "total":"1500",
-            "quantity":1
+            "quantity":1,
+            "type":"animals"
         }
 
       ] , "mp":[
@@ -201,5 +244,210 @@ export const data={
             "col":"red"
             
         }
+      ],
+      "searcharr":[
+        {
+            "id":"animals1",
+            "image":"animaldog.jpg",
+            "altimage":"animaldog1.jpg",
+            "title":"Dog",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"animals"
+        },
+        {
+            "id":"animals2",
+            "image":"elephant.webp",
+            "altimage":"elephant1.webp",
+            "title":"Elephant",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"animals"
+        },
+        {
+            "id":"animals3",
+            "image":"lion.jpg",
+            "altimage":"lion1.jpg",
+            "title":"Lion",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"animals"
+        },
+        {
+            "id":"animals4",
+            "image":"tiger.jpg",
+            "altimage":"tiger3.jpeg",
+            "title":"Tiger",
+            "price":"1500",
+            "total":"1500",
+            "quantity":1,
+            "type":"animals"
+        },
+        {
+            "id":"electronic1",
+            "image":"car.jpg",
+            "altimage":"car1.webp",
+            "title":"Electronic car",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"electronic"
+        },
+        {
+            "id":"electronic2",
+            "image":"dinosaur.jpg",
+            "altimage":"dinosaur1.jpg",
+            "title":"Dinosaur",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"electronic"
+        },
+        {
+            "id":"electronic3",
+            "image":"robotics.webp",
+            "altimage":"robotics1.webp",
+            "title":"Robot",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"electronic"
+        },
+        {
+            "id":"electronic4",
+            "image":"dog.jpg",
+            "altimage":"dog1.jpg",
+            "title":"Dog",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"electronic"
+        },
+        {
+            "id":"doll1",
+            "image":"doll1.webp",
+            "altimage":"doll11.webp",
+            "title":"Baby doll",
+            "price":"1000",
+            "total":"1000",
+            "quantity":1,
+            "type":"Dolls"
+        },
+        {
+            "id":"doll2",
+            "image":"doll2.jpg",
+            "altimage":"doll22.jpg",
+            "title":"Bay couple doll",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"Dolls"
+        },
+        {
+            "id":"doll3",
+            "image":"doll3.jpeg",
+            "altimage":"doll33.jpeg",
+            "title":"Baby doll",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"Dolls"
+        },
+        {
+            "id":"doll4",
+            "image":"doll4.jpg",
+            "altimage":"doll44.jpeg",
+            "title":"Baby doll",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"Dolls"
+        },
+        {
+            "id":"educational1",
+            "image":"clock.jpeg",
+            "altimage":"clock1.jpg",
+            "title":"Kids clock",
+            "price":"2000",
+            "total":"2000",
+            "quantity":1,
+            "type":"educational"
+        },
+        {
+            "id":"educational2",
+            "image":"abacus2.jpeg",
+            "altimage":"abacus1.jpg",
+            "title":"Abacus",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"educational"
+        },
+        {
+            "id":"educational3",
+            "image":"edt2.webp",
+            "altimage":"edt22.webp",
+            "title":"Educational toy",
+            "price":"1800",
+            "total":"1800",
+            "quantity":1,
+            "type":"educational"
+        },
+        {
+            "id":"educational4",
+            "image":"edt1.webp",
+            "altimage":"edt11.webp",
+            "title":"Educational toy",
+            "price":"1400",
+            "total":"1400",
+            "quantity":1,
+            "type":"educational"
+        },{
+            "id":"action1",
+            "image":"spider1.jpg",
+            "altimage":"spider11.jpg",
+            "title":"Spider man",
+            "price":"1000",
+            "total":"1000",
+            "quantity":1,
+            "type":"actions"
+        },
+        {
+            "id":"action2",
+            "image":"super1.jpg",
+            "altimage":"super11.webp",
+            "title":"Super man",
+            "price":"1100",
+            "total":"1100",
+            "quantity":1,
+            "type":"actions"
+
+        },
+        {
+            "id":"action3",
+            "image":"captian2.jpg",
+            "altimage":"captian22.jpg",
+            "title":"Captian America",
+            "price":"1200",
+            "total":"1200",
+            "quantity":1,
+            "type":"actions"
+
+        },
+        {
+            "id":"action4",
+            "image":"batman1.webp",
+            "altimage":"batman11.webp",
+            "title":"Batman",
+            "price":"1300",
+            "total":"1300",
+            "quantity":1,
+            "type":"actions"
+
+        }
+
       ]
 }
